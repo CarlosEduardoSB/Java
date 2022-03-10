@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main {
 
+	// Esse programa recebe 3 valores digitados pelo usuário e retorna a ordem crescente dos mesmos.
 	
 	public static void main(String[] args) {
 		
