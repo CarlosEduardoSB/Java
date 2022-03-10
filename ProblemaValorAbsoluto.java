@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
-	// Este programa recebe um valor inserido pelo usuário e retorna o valor
-	// absoluto do mesmo.
+	/* Este programa recebe um valor inserido pelo usuário e retorna o valor
+	 absoluto do mesmo. */
 
 	public static void main(String[] args) {
 
