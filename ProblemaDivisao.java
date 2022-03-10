@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Main {
 
+	// Esse programa irá receber dois números inseridos pelo usuário e irá retornar a divisão deles.
+	
 	
 	public static void main(String[] args) {
 		
