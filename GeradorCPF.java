@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-/* Programa para gerar os dois ultimos digitos do CPF do usuário após a entrada dos 9 primeiros digitos */
+// Programa para gerar os dois ultimos digitos do CPF do usuário após a entrada dos 9 primeiros digitos 
+// OBS: Incompleto ainda!
+
 
 class Main {
   public static void main(String[] args) {
